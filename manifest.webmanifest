@@ -1,0 +1,21 @@
+{
+  "name": "Monster High: O Reino das Marés da Lauana — Edição Maré Suprema",
+  "short_name": "Marés da Lauana",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08091f",
+  "theme_color": "#0a1038",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
